@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-Web-App-using-Shiny
+# Twitter Sentiment Analysis Web App using Shiny
 
 This shiny app provides Sentiment trends, Sentiment Scores and Wordclouds for any word, hashtah or twitter handle. 
 
