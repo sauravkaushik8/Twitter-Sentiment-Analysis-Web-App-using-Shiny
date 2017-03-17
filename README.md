@@ -2,7 +2,7 @@
 
 This shiny app provides Sentiment trends, Sentiment Scores and Wordclouds for any word, hashtah or twitter handle. 
 
-![image](https://{4.bp.blogspot.com/-SlV3fnHkZws/WBsiUj9GefI/AAAAAAAAEfs/cEixNwD4aHwKCwHChEmzc4UpMGYO3KmdQCLcB/s1600/11.PNG})
+![image](4.bp.blogspot.com/-SlV3fnHkZws/WBsiUj9GefI/AAAAAAAAEfs/cEixNwD4aHwKCwHChEmzc4UpMGYO3KmdQCLcB/s1600/11.PNG)
 
 
 Check out the Word Cloud for term Manchester :
